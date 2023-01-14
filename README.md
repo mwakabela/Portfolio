@@ -7,19 +7,22 @@
 - Nice interface
 
 ---------
-# Screenshot
+# Screenshots
 
 <h1 align="center">Landing Page</h1>
+
 ![](screenshots/me.png)
 
 ---------
 
 <h1 align="center">About</h1>
+
 ![](screenshots/about.png)
 
 ---------
 
 <h1 align="center">Skills</h1>
+
 ![](screenshots/skills.png)
 
 ---------
@@ -31,12 +34,16 @@
 ---------
 
 <h1 align="center">Services</h1>
+
 ![](screenshots/services.png)
 
 ---------
 
 <h1 align="center">Testimonials</h1>
+
 ![](screenshots/testimonial-1.png)
+
 <br>
+
 ![](screenshots/testimonial-2.png)
 
