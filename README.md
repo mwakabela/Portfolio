@@ -49,4 +49,6 @@
 
 ---------
 
-See it in action: <a href="https://edwinchangwe-portfolio.netlify.app/" target="_blank">My Portfolio</a>
+<div align = "center"
+<p>Check it out</p> <a align = "center" href="https://edwinchangwe-portfolio.netlify.app/" target="_blank">My Portfolio</a>
+</div>
