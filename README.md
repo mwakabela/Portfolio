@@ -49,4 +49,4 @@
 
 ---------
 
-See it in action: https://edwinchangwe-portfolio.netlify.app/
+See it in action: <a href="https://edwinchangwe-portfolio.netlify.app/" target="_blank">My Portfolio</a>
